@@ -8,8 +8,8 @@ function App() {
   return (
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
+        <Route path="/coba-react/" element={<Home />} />
+        <Route path="/coba-react/about" element={<About />} />
       </Routes>
     </BrowserRouter>
   )
